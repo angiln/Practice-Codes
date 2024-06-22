@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tests Done.iml" filepath="$PROJECT_DIR$/.idea/Tests Done.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hamro Patro/src/main/main.iml" filepath="$PROJECT_DIR$/Hamro Patro/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hamro Patro/src/test/test.iml" filepath="$PROJECT_DIR$/Hamro Patro/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
